@@ -1,0 +1,12 @@
+// Home page
+GET http://localhost:3000/
+
+### 
+
+// Get all contacts from the database
+GET http://localhost:3000/contacts/
+
+### 
+
+// Get one contact from the database
+GET http://localhost:3000/contacts/667750032a234a6c7aceeeeb
