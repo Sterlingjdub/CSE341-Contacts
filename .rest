@@ -1,12 +1,26 @@
+//*** Local host links ***//
+
 // Home page
 GET http://localhost:3000/
 
 ### 
-
 // Get all contacts from the database
 GET http://localhost:3000/contacts/
 
 ### 
-
 // Get one contact from the database
 GET http://localhost:3000/contacts/667750032a234a6c7aceeeeb
+
+//*** Published links ***//
+
+###
+// Home page
+GET https://cse341-contacts-njqn.onrender.com
+
+###
+// All contacts
+GET https://cse341-contacts-njqn.onrender.com/contacts/
+
+###
+// One contact
+GET https://cse341-contacts-njqn.onrender.com/contacts/6677509c2a234a6c7aceeeec
